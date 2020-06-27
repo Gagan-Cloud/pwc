@@ -34,4 +34,5 @@ public class NewTest {
 	public void trail6() {
 		Assert.assertEquals("Gagan", "Gagan");
 	}
+	
 }
