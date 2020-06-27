@@ -20,5 +20,8 @@ public class NewTest {
 	public void trail3() {
 		Assert.assertEquals("Gagan", "Gagan");
 	}
-
+	@Test
+	public void trail4() {
+		Assert.assertEquals("Gagan", "Gagan");
+	}
 }
