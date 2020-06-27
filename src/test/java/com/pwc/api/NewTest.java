@@ -7,10 +7,13 @@ public class NewTest {
 	
 
 	@Test
-	public void testEasy() {
+	public void trail1() {
 		Assert.assertEquals("Gagan", "Gagan");
 	}
 
-	
+	@Test
+	public void trail2() {
+		Assert.assertEquals("Gagan", "Gagan");
+	}
 
 }
